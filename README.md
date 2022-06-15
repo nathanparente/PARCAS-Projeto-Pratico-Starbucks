@@ -22,7 +22,7 @@
 
 
 ## 🖥 Link to access the site
-[projetostarbucks.netlify.app/](projetostarbucks.netlify.app)
+[https://projetostarbucks.netlify.app/](projetostarbucks.netlify.app)
 
 
 <p align="center">Copyright © 2022 nathanparente</p>
